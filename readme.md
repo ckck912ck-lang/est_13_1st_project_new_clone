@@ -132,7 +132,7 @@ CI/CD: GitHub Actions (테스트 및 배포 자동화)
 Design: Figma
 
 ### 2.2 배포 URL
-- **Production**: https://ckck912ck-lang.github.io/est_13_1st_project_clone/
+- **Production**: https://ckck912ck-lang.github.io/est_13_1st_project_new_clone/
 
 ### 2.3 개발 컨벤션 가이드
 
